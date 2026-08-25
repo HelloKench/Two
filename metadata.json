@@ -1,0 +1,6 @@
+{
+  "name": "WisdomQ Technologies - Global Talent & Communication",
+  "description": "Premium enterprise portal with responsive grid, dark/light themes, WebAuthn biometric security, offline sync engine, and interactive service calculators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
